@@ -2,9 +2,11 @@
 
 ## User Stories
 
-### As a User i would like to be able to: 
-* See how much HP my hero has.
-* See how much HP the enemies have.
+* I would like to be able to see how much HP my hero has.
+*I would like to be able to how much HP the enemies have.
+*I would like to be able to track my heroes level.
+* I would like to be able to track the enemies level.
+* I would like to be able to see what skills I have.
 
 
 
