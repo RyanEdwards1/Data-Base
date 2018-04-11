@@ -3,10 +3,16 @@
 ## User Stories
 
 * I would like to be able to see how much HP my hero has.
-*I would like to be able to how much HP the enemies have.
-*I would like to be able to track my heroes level.
-* I would like to be able to track the enemies level.
-* I would like to be able to see what skills I have.
+* I would like to be able to how much HP my enemies have.
+* I would like to be able to see my heroes level.
+* I would like to be able to see my enemies level.
+* I would like to be able to see what skills my hero has.
+* I would like to be able to see the race of my heroes.
+* I would like to be able to see the race of the enemies.
+* I would like to be able to see how much damage a skill does.
+* I would like to be able to see how much healing a skill does.
+* I would like to be able to see the type of skill that my hero has.
+* I would like to be able to see the type of skill that my enemies have
 
 
 
