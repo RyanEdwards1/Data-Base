@@ -1,9 +1,10 @@
 # Data-Base
 
 ## User Stories
-### As a User i would like to be able to 
-* see how much HP my hero has.
-* see how much HP the enemies have.
+
+### As a User i would like to be able to: 
+* See how much HP my hero has.
+* See how much HP the enemies have.
 
 
 
