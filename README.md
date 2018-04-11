@@ -1,5 +1,8 @@
 # Data-Base
 
+## User Stories
+
+
 
 ## ERD
 #### Below you can see the ERD which is a quick overview how the database will look, function and what it will contain. Under each of the database titles there are multiple Skills, ID, HP, Damage and many others. 
