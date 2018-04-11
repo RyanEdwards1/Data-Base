@@ -9,3 +9,6 @@
 #### Overall the ERD is a template of what the data base that will be created will look like, contain and the purpose of it. 
 
 ![erd](https://user-images.githubusercontent.com/31927415/38618274-053038a2-3d91-11e8-9251-edfaf95ff7e1.JPG)
+
+## Data Dictionary
+![capturej](https://user-images.githubusercontent.com/31927415/38619040-2b3d5f64-3d93-11e8-86ab-8a4a1660edae.JPG)
