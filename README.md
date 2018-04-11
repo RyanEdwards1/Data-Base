@@ -23,7 +23,8 @@
 
 #### Overall the ERD is a template of what the data base that will be created will look like, contain and the purpose of it. 
 
-![erd](https://user-images.githubusercontent.com/31927415/38618274-053038a2-3d91-11e8-9251-edfaf95ff7e1.JPG)
+![erd diagram for game](https://user-images.githubusercontent.com/31927415/38622242-a1f7e08c-3d9a-11e8-9d23-e5fc65e0bbb2.png)
+
 
 ## Data Dictionary
 #### Below you can see a Data Dictionary for the database that I am creating. These dictionaries are to help the viewer understand. What type of input the table area will have, for example certain areas will have "float". This is to indicate whether there would be numbers or letters within the field of input. Data dictionaries are important as they can keep the database consistent from the start by giving it a set point as it allows viewers to look onto a clear view of what the database is going to be like and can always be referred to when putting the database together.
