@@ -32,3 +32,15 @@
 #### This data dictionary shows how my database will be made and what the value type they are. I will be able to use this dictionary as a fixed layout of the database when creating the final piece. I know what I must add and I know it’s everything I need all I should do is put it into a database. The dictionary helps keep me on track    
 
 ![capturej](https://user-images.githubusercontent.com/31927415/38619040-2b3d5f64-3d93-11e8-86ab-8a4a1660edae.JPG)
+
+
+## Forms
+![forms](https://user-images.githubusercontent.com/31927415/39126810-43f6c13c-46fb-11e8-80fd-443af4b9f8f2.PNG)
+
+
+
+## Validation
+
+
+
+## Reports
