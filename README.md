@@ -35,13 +35,15 @@
 
 
 ## Forms
-![forms](https://user-images.githubusercontent.com/31927415/39126810-43f6c13c-46fb-11e8-80fd-443af4b9f8f2.PNG)
+The form you can see below is able to insert data into my Hero tab in the database you are able to add in every attribute as well. 
 
+![forms](https://user-images.githubusercontent.com/31927415/39126810-43f6c13c-46fb-11e8-80fd-443af4b9f8f2.PNG)
 
 
 ## Validation
 
 
-
 ## Reports
+The screen shot below is of the report created about my Hero table. It contains all of their skills, levels, damage, name and many more things. The report has all of the things that are spread over different databases in one place to make it easy to see and read 
+
 ![reports](https://user-images.githubusercontent.com/31927415/39126938-830185d8-46fb-11e8-8c69-346cda1a888e.PNG)
