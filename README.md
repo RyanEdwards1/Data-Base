@@ -102,7 +102,7 @@ SELECT COUNT (*) FROM HEROES;
 
 SELECT MAX(H.LEVEL), MIN(H.LEVEL) FROM HEROES H; 
 
-_____________________________________________    Inserts To Heroes    ____________________________________________
+__________________________________________    Inserts To Heroes    _________________________________________
 
 
 INSERT INTO Heroes VALUES(
@@ -137,7 +137,7 @@ INSERT INTO Heroes VALUES(
 8, 'Erinstel', High Elf, Hunter, 115, 9999, 9999
 );
 
-_____________________________________________    Inserts To Enemies    ____________________________________________
+__________________________________________    Inserts To Enemies    _________________________________________
 
 
 INSERT INTO Enemies VALUES(
@@ -172,7 +172,7 @@ INSERT INTO Enemies VALUES(
 8, 'Smaug', 8000, 6000,
 );
 
-_____________________________________________    Inserts To Hero_Skills    ____________________________________________
+__________________________________________    Inserts To Hero_Skills    _________________________________________
 
 
 INSERT INTO Hero_Skills VALUES(
@@ -205,7 +205,7 @@ INSERT INTO Hero_Skills VALUES(
 
 
 
-_____________________________________________    Inserts To Enemy_Skills    ____________________________________________
+__________________________________________    Inserts To Enemy_Skills    _________________________________________
 
 INSERT INTO Enemy_Skills VALUES(
 1, 25, 116,
@@ -238,7 +238,7 @@ INSERT INTO Enemy_Skills VALUES(
 
 
 
-_____________________________________________    Inserts To Skills    ____________________________________________
+__________________________________________    Inserts To Skills    _________________________________________
 
 INSERT INTO Skills VALUES(
 1, Sword, High Cut, Melee, 
@@ -268,7 +268,7 @@ INSERT INTO Skills VALUES(
 7, Hammer, Sweeping Cut, Melee, 
 );
 
-_____________________________________________    All Of My Deletes    ____________________________________________
+__________________________________________    All Of My Deletes    _________________________________________
 
 DELETE FROM ENEMIES WHERE ID-2;
 LEVEL > 120 AND NAME='Witch-King';
@@ -296,7 +296,7 @@ LEVEL > 120 AND NAME='Elrond';
 DELETE FROM ENEMIES WHERE ID-5;
 LEVEL > 120 AND NAME='Gothmog';
 
-_____________________________________________    All Of My Updates    ____________________________________________
+__________________________________________    All Of My Updates    _________________________________________
 
 
 UPDATE HEROES
@@ -327,7 +327,7 @@ UPDATE HEROES
 SET HP = 4000, Damage = 4000
 WHERE NAME LIKE 'Aragorn%';
 
-_____________________________________________    All Of My Selects    ____________________________________________
+__________________________________________    All Of My Selects    _________________________________________
 
 SELECT LEVEL, NAME FROM HEROES
 WHERE NAME LIKE '%A%';
