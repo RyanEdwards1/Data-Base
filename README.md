@@ -40,11 +40,15 @@ The form you can see below is able to insert data into my Hero tab in the databa
 ![forms](https://user-images.githubusercontent.com/31927415/39126810-43f6c13c-46fb-11e8-80fd-443af4b9f8f2.PNG)
 
 ## Validation
-Here are some of the Validation Rules i have used thoughout my Database
+Here are some of the Validation Rules i have used thoughout my Database:
 
 The first validation i used was >=0 which means the number that you enter must be higher than Zero
 ![valudatuib](https://user-images.githubusercontent.com/31927415/39234342-dabc8afa-486a-11e8-8f30-e42e60337bbc.PNG)
 
+The Second Validation i used was <> 0 Which means the user must enter a nonzero number
+![valudation 2](https://user-images.githubusercontent.com/31927415/39234919-75cbec88-486c-11e8-85fa-7988bad1ac1a.PNG)
+
+The Third Validation i used was 0 or >100 which means the user must enter 0 or a number greater than 100
 ## Reports
 The screen shot below is of the report created about my Hero table. It contains all of their skills, levels, damage, name and many more things. The report has all of the things that are spread over different databases in one place to make it easy to see and read 
 
