@@ -49,6 +49,9 @@ The Second Validation i used was <> 0 Which means the user must enter a nonzero 
 ![valudation 2](https://user-images.githubusercontent.com/31927415/39234919-75cbec88-486c-11e8-85fa-7988bad1ac1a.PNG)
 
 The Third Validation i used was 0 or >100 which means the user must enter 0 or a number greater than 100
+![valudation 3](https://user-images.githubusercontent.com/31927415/39235052-cb188c3c-486c-11e8-9564-8c8f48341d55.PNG)
+
+
 ## Reports
 The screen shot below is of the report created about my Hero table. It contains all of their skills, levels, damage, name and many more things. The report has all of the things that are spread over different databases in one place to make it easy to see and read 
 
