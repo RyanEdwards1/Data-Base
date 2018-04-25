@@ -42,6 +42,7 @@ The form you can see below is able to insert data into my Hero tab in the databa
 ## Validation
 Here are some of the Validation Rules i have used thoughout my Database
 
+The first validation i used was >=0 which means the number that you enter must be higher than Zero
 ![valudatuib](https://user-images.githubusercontent.com/31927415/39234342-dabc8afa-486a-11e8-8f30-e42e60337bbc.PNG)
 
 ## Reports
