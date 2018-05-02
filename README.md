@@ -374,3 +374,7 @@ The Third Validation i used was 0 or >100 which means the user must enter 0 or a
 The screen shot below is of the report created about my Hero table. It contains all of their skills, levels, damage, name and many more things. The report has all of the things that are spread over different databases in one place to make it easy to see and read 
 
 ![reports](https://user-images.githubusercontent.com/31927415/39126938-830185d8-46fb-11e8-8c69-346cda1a888e.PNG)
+
+
+## Test Plan
+![test plan](https://user-images.githubusercontent.com/31927415/39513951-c8795bba-4ded-11e8-94ad-9874bd60a877.PNG)
