@@ -380,7 +380,7 @@ The screen shot below is of the report created about my Hero table. It contains 
 ![test plan](https://user-images.githubusercontent.com/31927415/39513951-c8795bba-4ded-11e8-94ad-9874bd60a877.PNG)
 
 
-## User Documentation – 
+## User And Technical Documentation – 
 
 ##### System Overview -
 
@@ -430,10 +430,11 @@ The database I created had to hold the weight of data from a game that is being 
 
 ##### Tools Used
 
-Draw.io
+Draw.io – Used to create the Entity Relationship Diagram 
 
-Microsoft Excel
+Microsoft Excel – Used to create the data dictionary and Test Plan
 
-Microsoft access
+Microsoft Access – Used to create the Database
 
-Microsoft Word
+Microsoft word – used to create the user and technical documentation 
+
