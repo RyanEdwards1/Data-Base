@@ -382,24 +382,24 @@ The screen shot below is of the report created about my Hero table. It contains 
 
 ## User Documentation – 
 
-###### System Overview -
+##### System Overview -
 
 This database is designed to hold certain information about different characters that appear in the game. The database has different tables which are Heroes, Enemies, Hero_Skills, Enemies_Skills and Skills. These hold key values relating to each character in the game. Including Name, Race, Class, Level, Damage, Health, Skill ID and Range. These values can be updated in real time for gameplay reasons and purposes.
 
 
-###### The Role Of The Database System –
+##### The Role Of The Database System –
 
 Database systems can be used for many different things but most of the time they are used for the same reason I am using it. That is for storage and easy access to data that can be updated in real time and is easy to navigate around the tables.
 
-###### What is Object Oriented Database?
+##### What is Object Oriented Database?
 
 An object-oriented database is a database management system that supports the modelling and creation of data as objects. This includes support for classes of objects and the inheritance of class properties and methods by subclasses and their objects. When an object has been added into the database it can be referenced or called later. So, you can add the object and not have to worry about adding in all the information about it straight away so you can get all the main points in.
 
-###### What is My System For –
+##### What is My System For –
 
 My database system is made to hold on to the data of the different characters and their skills within the game. The database will also be kept up to date in real time so the game does not become out dated.
 
-###### Risks –
+##### Risks –
 
 * Database not updating the reports
 
@@ -410,7 +410,7 @@ My database system is made to hold on to the data of the different characters an
 * Having any of the forms not show the information from the tables
 
 
-###### Contingencies –
+##### Contingencies –
 
 * Keeping multiple saves in case a change ruins the database,
 
@@ -420,7 +420,7 @@ My database system is made to hold on to the data of the different characters an
 
 * Following the design so that the code you use should follow what you made
 
-###### Design Decisions
+##### Design Decisions
 
 The design of my database was thought out in the planning phase of the project. i knew that the database was going to be storing many different characters and skills and it would all need to be put into separate tables. The creation of the ERD allowed me to figure out a plan of where all the data was going so I could get a good layout for my database. This also helps when it comes to testing as I can look back on it and see if all the tables are linked and they are all containing the correct information.
 
@@ -428,9 +428,12 @@ When I was creating the ERD I had to look at the user requirements and how I was
 
 The database I created had to hold the weight of data from a game that is being created. So first I had to make 5 different tables all holding separate information about different characters and their skills. These where then merged into forms which had more detail in them linking characters with their skills and level etc. These forms are what most people will look at as they contain the most information needed, it also shows the information clearly and updated.
 
-###### Tools Used
+##### Tools Used
 
 Draw.io
+
 Microsoft Excel
+
 Microsoft access
+
 Microsoft Word
